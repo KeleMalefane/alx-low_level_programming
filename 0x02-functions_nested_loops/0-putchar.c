@@ -2,8 +2,8 @@
 
 /**
  * main -This is where my code starts
- * 
- * Return: 0
+ *
+ * Return:0
  */
 
 int main(void)
@@ -19,4 +19,3 @@ _putchar('r');
 _putchar('\n');
 return (0);
 }
-
